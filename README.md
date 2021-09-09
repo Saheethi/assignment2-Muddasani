@@ -22,3 +22,15 @@
 * Food
 
 [ABout me](Aboutme.md)
+
+***
+# FOOD AND DRINKS
+Best foods:
+
+|FOOD | PLACE | PRICE
+|---|---|---|
+|Vanilla fudge ice cream | cream stone |$3
+|milkshake| makers of milkshake |$4
+|chat|gokul chat|$7
+
+
