@@ -15,3 +15,8 @@
 
 1. After reaching the destination, make sure to collect all your baggage from the counter then exit from the Airport and look for a cab to explore the city and try varities of hot spicy foods and enjoy at the beaches.
 
+* Soft Drinks
+* Sunscreen
+* Umbrella
+* volleyball
+* Food
