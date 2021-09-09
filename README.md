@@ -33,4 +33,34 @@ Best foods:
 |milkshake| makers of milkshake |$4
 |chat|gokul chat|$7
 
+***
+ # Best quotes
+
+ > Honesty is the best policy *-william groot*
+
+ >The purpose of the life is to  live happy *- rendem green*
+
+
+***
+ # Code fencing
+ > Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as far as possible along each branch before backtracking.
+
+ [DFS](https://en.wikipedia.org/wiki/Depth-first_search)
+
+ ```vector<vector<int>> adj; // graph represented as an adjacency list
+int n; // number of vertices
+
+vector<bool> visited;
+
+void dfs(int v) {
+    visited[v] = true;
+    for (int u : adj[v]) {
+        if (!visited[u])
+            dfs(u);
+    }
+}
+````
+
+
+[CODE](https://cp-algorithms.com/graph/depth-first-search.html)
 
